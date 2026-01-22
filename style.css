@@ -18,7 +18,7 @@ nav{
     width: 80%;
 }
 a {
-    color: rgb(17, 0, 255);
+    color: white;
     text-decoration: none;
 }
 li{
@@ -61,7 +61,7 @@ article{
 }
 #event{
    text-align: center;
-   color: white;
 }
+
 
 
